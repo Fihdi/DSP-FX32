@@ -1,2 +1,2 @@
 # DSP-FX32
-10hp DSP Eurorack module
+10hp DSP Eurorack module. Work in progress.
